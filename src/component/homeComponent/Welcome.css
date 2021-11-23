@@ -1,0 +1,24 @@
+.welcome{
+    text-decoration: underline;
+    color: red;
+    
+}
+.kitchen{
+    text-decoration: underline;
+    color: blueviolet;
+    
+}
+.kitchen{
+    text-decoration: underline;
+    color: blue;
+    
+}
+.home{
+
+    text-decoration: underline;
+    color: teal;  
+}
+.welcomeText{
+    text-align: justify;
+  text-justify: inter-word;
+}
